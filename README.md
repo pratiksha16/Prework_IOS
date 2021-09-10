@@ -22,7 +22,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/FOz3AVq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/FOz3AVq' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
